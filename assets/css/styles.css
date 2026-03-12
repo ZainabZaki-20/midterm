@@ -5,3 +5,7 @@ p {
 h1, h2, h3 {
   font-family: playfair-display;
 }
+.work, .leader, .volunteer, .awards {
+  background-color: gray;
+  boarder-color: black;
+}
