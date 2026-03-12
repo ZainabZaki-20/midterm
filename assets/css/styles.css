@@ -7,5 +7,5 @@ h1, h2, h3 {
 }
 .work, .leader, .volunteer, .awards {
   background-color: gray;
-  boarder-color: black;
+  border-color: black;
 }
