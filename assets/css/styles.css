@@ -5,7 +5,7 @@ p {
 h1, h2, h3 {
   font-family: playfair-display;
 }
-.work, .leader, .volunteer, .awards {
+.work, .leader, .volunteer, .awards, .education {
   background-color: gray;
   border-color: black;
 }
