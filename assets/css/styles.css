@@ -10,22 +10,22 @@ h1, h2, h3 {
   font-family: playfair-display;
 }
 .education {
+  border: 2px solid black; 
   background-color: var(--dust-grey);
-  border-color: black;
 }
 .work {
+  border: 2px solid black; 
   background-color:var(--dust-grey);
-  border-color: black;
 }
 .leader {
+  border: 2px solid black; 
   background-color:var(--dust-grey);
-  border-color: black;
 }
 .volunteer {
+  border: 2px solid black; 
   background-color:var(--dust-grey);
-  border-color: black;
 }
 .awards {
+  border: 2px solid black; 
   background-color:var(--dust-grey);
-  border-color: black;
 }
