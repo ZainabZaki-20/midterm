@@ -14,18 +14,22 @@ h1, h2, h3 {
   background-color: var(--dust-grey);
 }
 .work {
+  justify-content: around;
   border: 2px solid black; 
   background-color:var(--dust-grey);
 }
 .leader {
+  justify-content: around;
   border: 2px solid black; 
   background-color:var(--dust-grey);
 }
 .volunteer {
+  justify-content: around;
   border: 2px solid black; 
   background-color:var(--dust-grey);
 }
 .awards {
+  justify-content: around;
   border: 2px solid black; 
   background-color:var(--dust-grey);
 }
