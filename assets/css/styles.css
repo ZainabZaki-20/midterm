@@ -1,11 +1,31 @@
 /* styles.css */
+:root {
+  /* CSS HEX */
+--dust-grey: #dad2d8ff;
+}
 p {
   font-family: Gelasio;
 }
 h1, h2, h3 {
   font-family: playfair-display;
 }
-.work, .leader, .volunteer, .awards, .education {
-  background-color: gray;
+.education {
+  background-color: var(--dust-grey);
+  border-color: black;
+}
+.work {
+  background-color:var(--dust-grey);
+  border-color: black;
+}
+.leader {
+  background-color:var(--dust-grey);
+  border-color: black;
+}
+.volunteer {
+  background-color:var(--dust-grey);
+  border-color: black;
+}
+.awards {
+  background-color:var(--dust-grey);
   border-color: black;
 }
