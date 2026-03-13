@@ -15,25 +15,29 @@ h1 {
 .education {
   border: 2px solid black; 
   background-color: var(--dust-grey);
-  grid-gap: 10px;
+  margin: 10px;
 }
 .work {
   justify-content: around;
   border: 2px solid black; 
   background-color:var(--dust-grey);
+  margin: 10px;
 }
 .leader {
   justify-content: around;
   border: 2px solid black; 
   background-color:var(--dust-grey);
+  margin: 10px;
 }
 .volunteer {
   justify-content: around;
   border: 2px solid black; 
   background-color:var(--dust-grey);
+  margin: 10px;
 }
 .awards {
   justify-content: around;
   border: 2px solid black; 
   background-color:var(--dust-grey);
+  margin: 10px;
 }
