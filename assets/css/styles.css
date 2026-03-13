@@ -9,10 +9,13 @@ p {
 h1, h2, h3 {
   font-family: playfair-display;
 }
+h1 {
+  font-size: 200px;
+}
 .education {
   border: 2px solid black; 
   background-color: var(--dust-grey);
-  grid-gap: 10px
+  grid-gap: 10px;
 }
 .work {
   justify-content: around;
